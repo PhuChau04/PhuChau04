@@ -1,4 +1,4 @@
-<h1>Hi, I'm Phu! <br/> <a href="https://www.linkedin.com/in/phu-chau/">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/phu-chau/">Cybersecurity Enthusiast
+<h1>Hi, I'm Phu! <br/> <a href="https://www.linkedin.com/in/phu-chau/">Cybersecurity Student</a>, <a href="https://tryhackme.com/p/phu.chau04">Cybersecurity Enthusiast
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
