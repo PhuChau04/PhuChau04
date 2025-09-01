@@ -10,8 +10,8 @@
 
 <h2>🕵🏻‍♂️ Data Analysis Projects:</h2>
 
-- [Intel Project - Data Analysis for Sustainability]
-- [The GRAMMYs Project - Website Audience Analysis]
+- [Intel Project - Data Analysis for Sustainability](https://github.com/PhuChau04/Intel-Project-Data-Analysis-for-Sustainability)
+- [The GRAMMYs Project - Website Audience Analysis](https://github.com/PhuChau04/The-GRAMMYs-Project-Website-Audience-Analysis)
 
 <h2> 🤳 Connect with me:</h2>
 
