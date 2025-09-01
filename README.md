@@ -1,13 +1,17 @@
 <h1>Hi, I'm Phu! <br/><a href="https://www.linkedin.com/in/phu-chau/">Cybersecurity Student</a>, <a href="https://tryhackme.com/p/MadeEnVietnam">Cybersecurity Enthusiast</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- [Active Directory Home Lab](https://github.com/PhuChau04/ActiveDirectoryLab)
-
 <h2>📝 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/1e32a570c2872d0dcda5f921532eccfd)
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/PhuChau04/ActiveDirectoryLab)
+
+<h2>🕵🏻‍♂️ Data Analysis Projects:</h2>
+
+- [Intel Project - Data Analysis for Sustainability]
+- [The GRAMMYs Project - Website Audience Analysis]
 
 <h2> 🤳 Connect with me:</h2>
 
