@@ -2,7 +2,7 @@
 
 <h2>📝 Certifications</h2>
 
-- [Security+] (https://www.credly.com/badges/e3f68e40-d680-4b40-801a-e5d105f23411/public_url)
+- [Security+](https://www.credly.com/badges/e3f68e40-d680-4b40-801a-e5d105f23411/public_url)
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/1e32a570c2872d0dcda5f921532eccfd)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
