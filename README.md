@@ -1,6 +1,7 @@
 <h1>Hi, I'm Phu! <br/><a href="https://www.linkedin.com/in/phu-chau/">Cybersecurity Student</a>, <a href="https://tryhackme.com/p/MadeEnVietnam">Cybersecurity Enthusiast</a>
 
 <h2>📝 Certifications</h2>
+
 - [Security+] (https://www.credly.com/badges/e3f68e40-d680-4b40-801a-e5d105f23411/public_url)
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/1e32a570c2872d0dcda5f921532eccfd)
 
